@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.todoCards{
+    padding: 1em;
+}
+
+#todoCards{
+    display: flex;
+    flex-direction: row;
+}
